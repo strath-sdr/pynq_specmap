@@ -36,7 +36,7 @@ setup(
     name=package_name,
     version='0.2.0',
     install_requires=[
-        'pynq==2.7.0',
+        'pynq>=2.7.0',
         'plotly==5.1.0',
         'pandas==1.3.3',
         'requests==2.22.0',
